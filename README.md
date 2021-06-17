@@ -1,6 +1,6 @@
 # Mac-Changer
 This is a python script to change the Mac address of your wifi adpater or wifi card in linux . 
-# How to use it 
+## How to use it 
 The first thing to make sure is run as root for this script to work.
 **Linux commands**
 ```linux
