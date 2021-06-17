@@ -5,10 +5,10 @@ This is a python script to change the Mac address of your wifi adpater or wifi c
 -Go to the particular path where you have saved the script.
 ### Linux commands
 ```linux
- python mac_changer.py -h                          
-Usage: mac_changer.py [options]
+ $python mac_changer.py -h                          
+ Usage: mac_changer.py [options]
 
-Options:
+ Options:
   -h, --help            show this help message and exit
   -i INTERFACE, --interface=INTERFACE
                         Interface to change its MAC address
