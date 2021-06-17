@@ -18,5 +18,5 @@ This is a python script to change the Mac address of your wifi adpater or wifi c
 ```
 **Example**
 ```linux
-python mac_changer.py -i eth0 -m 00:2d:33:44:55:99
+$python mac_changer.py -i eth0 -m 00:2d:33:44:55:99
 ```
