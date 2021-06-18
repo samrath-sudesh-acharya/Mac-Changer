@@ -9,7 +9,7 @@ First, clone Mac-Changer to your local machine
 ```linux
 git clone https://github.com/samrath-sudesh-acharya/Mac-Changer.git
 ```
-Second, change to Mac-Changer directory <br/> [+] NOTE : WHENEVER YOU WANT TO RUN THIS TOOL YOU HAVE TO CHANGE YOUR DIRECTORY TO Mac-Changer
+Second, change to Mac-Changer directory <br/> [+] NOTE : WHENEVER YOU WANT TO RUN THIS TOOL YOU HAVE TO CHANGE YOUR DIRECTORY TO `Mac-Changer`
 ```linux
 cd Mac-Changer
 ```
