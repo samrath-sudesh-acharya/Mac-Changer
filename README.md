@@ -2,8 +2,8 @@
 This is a tool to change the Mac address of your wifi adpater or wifi card in linux .<br/>
 ### Made with :
 
-<img align="left" alt="Python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="Linux | Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /><br/>
+<img align="left" alt="Python | Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="Linux | Linux" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /><br/>
 
 ## Installation Process
 **Run in root,<br/>To do that you can use this,and enter your password**
