@@ -18,7 +18,7 @@ Third, run the setup file, to intsall the necessary requirements for this tool
 ./setup.sh  
 ```
 ## How to use it 
--The first thing to make sure is run as **root** for this script to work.<br/>
+-The first thing to make sure is run as **root** for this tool to work.<br/>
 -Go to the particular path where you have saved the script.
 ## Linux commands
 ```linux
