@@ -1,5 +1,5 @@
 # Mac-Changer
-This is a tool for changing written in python script to change the Mac address of your wifi adpater or wifi card in linux .
+This is a tool written in python script to change the Mac address of your wifi adpater or wifi card in linux .
 ## Installation Process
 **Run in root,<br/>To do that you an use this,and enter your password**
 ```linux
