@@ -1,5 +1,5 @@
 # Mac-Changer
-This is a tool to change the Mac address of your wifi adpater or wifi card in linux .<br/>
+### This is a tool to change the Mac address of your wifi adpater or wifi card in linux .<br/>
 ### Made with :
 
 <img align="left" alt="Python | Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
