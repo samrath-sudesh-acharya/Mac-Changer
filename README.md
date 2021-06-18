@@ -1,7 +1,7 @@
 # Mac-Changer
 This is a tool to change the Mac address of your wifi adpater or wifi card in linux .
 ## Installation Process
-**Run in root,<br/>To do that you an use this,and enter your password**
+**Run in root,<br/>To do that you can use this,and enter your password**
 ```linux
 sudo -i
 ```
