@@ -1,3 +1,4 @@
+<a href="https://badges.pufler.dev"><img align="right" alt="Visits Badge" src="https://badges.pufler.dev/visits/samrath-sudesh-acharya/Mac-Changer"></a>
 # Mac-Changer 
 
 ### This is a tool to change the Mac address of your wifi adpater or wifi card in linux .<br/>
@@ -44,4 +45,3 @@ Third, run the setup file, to intsall the necessary requirements for this tool
 ```linux
 python mac_changer.py -i eth0 -m 00:2d:33:44:55:99
 ```
-<a href="https://badges.pufler.dev"><img align="right" alt="Visits Badge" src="https://badges.pufler.dev/visits/samrath-sudesh-acharya/Mac-Changer"></a>
