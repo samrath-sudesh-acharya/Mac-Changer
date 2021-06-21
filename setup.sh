@@ -2,6 +2,11 @@
 
 sudo apt-get install macchanger
 
+if [ -f clone.json ]; then
+   rm clone.json
+   echo "uncessary files removed"
+fi
+
 echo "$(tput setaf 4)*****************************************$(tput sgr 0)"
 echo "$(tput setaf 4)*                                       *$(tput sgr 0)"
 echo "$(tput setaf 4)* Mac_changer is successfully installed *$(tput sgr 0)"
