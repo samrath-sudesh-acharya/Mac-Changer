@@ -1,4 +1,4 @@
-<a href="https://badges.pufler.dev"><img align="right" alt="Visits Badge" src="https://badges.pufler.dev/visits/samrath-sudesh-acharya/Mac-Changer"></a><a href="https://github.com/MShawon/github-clone-count-badge"><img align="right" alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=<url>?raw=True&logo=github"></a>
+<a href="https://badges.pufler.dev"><img align="right" alt="Visits Badge" src="https://badges.pufler.dev/visits/samrath-sudesh-acharya/Mac-Changer"></a><a href="https://github.com/MShawon/github-clone-count-badge"><img align="right" alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://github.com/samrath-sudesh-acharya/Mac-Changer/blob/main/clone.json?raw=True&logo=github"></a>
 
 # Mac-Changer 
 
