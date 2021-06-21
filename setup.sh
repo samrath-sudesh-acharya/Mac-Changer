@@ -4,6 +4,10 @@ sudo apt-get install macchanger
 
 if [ -f clone.json ]; then
    rm clone.json
+fi
+
+if [ -f README.md ]; then
+   rm README.md
    echo "uncessary files removed"
 fi
 
