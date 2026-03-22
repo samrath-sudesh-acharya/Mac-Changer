@@ -3,7 +3,7 @@ name: GitHub Clone Count for 14 days at every 8 hours
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 0 * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -17,7 +17,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Parse clone count using REST API
         run: |
@@ -31,7 +31,7 @@ jobs:
           git add .
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git commit -m "Automated clone.json update"
+          git diff --cached --quiet || git commit -m "Automated clone.json update"
           
       - name: Push
         uses: ad-m/github-push-action@master
